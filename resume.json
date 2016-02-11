@@ -1,0 +1,133 @@
+{
+    "basics": {
+        "name": "Chris Johnson",
+        "label": "Front End Developer",
+        "picture": "https://pbs.twimg.com/profile_images/532217173884669953/uAHF3jC7.jpeg",
+        "email": "chris@redscriptdesign.com",
+        "phone": "(213) 910-7574",
+        "website": "https://github.com/cjthedizzy",
+        "summary": "Completely devoted to development, enriching myself with new languages and better, more efficient coding practices. I have worked primarily as a front end developer and a design manager thus far in my career and look to expand into full stack development. I have an excellent mix of technical skill and customer service abilities and can fill any position from the ground up. Tenacious, driven and above all fun-loving.",
+        "location": {
+            "address": "10584 Santa Monica Blvd. Apt #204",
+            "postalCode": "CA 90025",
+            "city": "Los Angeles",
+            "countryCode": "US",
+            "region": "California"
+        },
+        "profiles": [{
+            "network": "Twitter",
+            "username": "chrisj_cali",
+            "url": "https://twitter.com/chrisj_cali"
+        }, {
+            "network": "LinkedIn",
+            "url": "www.linkedin.com/in/chrisjcali"
+        }]
+    },
+    "work": [{
+        "company": "Belkin International",
+        "position": "Android Rapid Prototype Developer",
+        "startDate": "2015-06-01",
+        "summary": "Developing and maintaining an Android hybrid app built on Backbonejs and cordova which controls Wemo smart home devices",
+        "highlights": [
+            "Wrote prototypes based on UI specs",
+            "Tracked and fixed bugs",
+            "Assisted in improvement efforts to increase the apps modularity and make better use of backbone, sass and handlebars",
+            "Presented weekly demonstrations on additions or improvments to the team",
+            "Participated in brainstorming sessions with UI/UX design team on user flows"
+        ]
+    }, {
+        "company": "Homes.com",
+        "position": "Studio Design Manager",
+        "startDate": "2011-06-01",
+        "endDate": "2015-05-15",
+        "summary": "I directed and oversaw the Homes.com Studio design department to provide quality web design and content products. My duties were to ensure product standards were being met, customer satisfaction, managerial duties, and to develop new creative ways to extend our product line and provide additional options for clients to enhance their marketing materials.",
+        "highlights": [
+            "Refactored design process to implement LESS, Responsive design, and better javascript practices",
+            "Hired and trained web designers and customer service consultants",
+            "Held weekly team meetings",
+            "Took customer calls and provided support when needed",
+            "Generated progress and revenue reports for upper management"
+        ]
+    }, {
+        "company": "Cuneo Creative",
+        "position": "Junior Web Designer",
+        "startDate": "2009-05-01",
+        "endDate": "2011-06-01",
+        "summary": "My duties included work in the Adobe creative suite such as photo editing, illustration, or web design. Also I wrote HTML and CSS based websites with some use of PHP and jQuery.",
+        "highlights": [
+            "Often worked on several different clients per day",
+            "Converted PSD mockups into pixel-perfect Websites",
+            "Edited large volumes of photos for retail clients",
+            "Photo retouch and editing on landscape, portrait, and action photography"
+        ]
+    }],
+    "education": [{
+        "institution": "Florida State University",
+        "area": "Mass Media Communication and Information Science",
+        "studyType": "Bachelor",
+        "startDate": "2007-06-01",
+        "endDate": "2011-08-01",
+        "gpa": "3.7"
+    }],
+    "skills": [{
+        "name": "HTML",
+        "level": "Master",
+        "keywords": [
+            "HTML5",
+            "BEM Naming Conventions"
+        ]
+    }, {
+        "name": "Javascript",
+        "level": "Advanced",
+        "keywords": [
+            "jQuery",
+            "Underscore",
+            "Backbone",
+            "Handlebars",
+            "Gulp",
+            "Grunt",
+            "Browserify",
+            "Require",
+            "Babel",
+            "Node",
+            "Express"
+        ]
+    }, {
+        "name": "CSS",
+        "level": "Master",
+        "keywords": [
+            "Sass",
+            "LESS",
+            "PostCSS",
+            "CSS3",
+            "Flexbox",
+            "Responsive Design"
+        ]
+    }, {
+        "name": "Database",
+        "level": "Intermediate",
+        "keywords": [
+            "MySql",
+            "MongoDB"
+        ]
+    }, {
+        "name": "Development Tools",
+        "level": "Master",
+        "keywords": [
+            "Git",
+            "JIRA",
+            "Confluence",
+            "Sublime Text",
+            "PHPStorm"
+        ]
+    }, {
+        "name": "Design Tools",
+        "level": "Advanced",
+        "keywords": [
+            "Photoshop",
+            "Illustrator",
+            "inDesign",
+            "Lightroom"
+        ]
+    }]
+}
