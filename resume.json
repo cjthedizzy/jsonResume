@@ -2,7 +2,7 @@
     "basics": {
         "name": "Chris Johnson",
         "label": "Front End Developer",
-        "picture": "https://pbs.twimg.com/profile_images/532217173884669953/uAHF3jC7.jpeg",
+        "picture": "http://redscriptdesign.com/me.jpg",
         "email": "chris@redscriptdesign.com",
         "phone": "(213) 910-7574",
         "website": "https://github.com/cjthedizzy",
@@ -27,13 +27,18 @@
         "company": "Belkin International",
         "position": "Android Rapid Prototype Developer",
         "startDate": "2015-06-01",
-        "summary": "Developing and maintaining an Android hybrid app built on Backbonejs and cordova which controls Wemo smart home devices",
+        "summary": "Developing and maintaining an Android hybrid app built on Backbonejs and cordova which controls Wemo smart home devices.",
         "highlights": [
-            "Wrote prototypes based on UI specs",
+            "Worked in two week sprint cycles and participated in standups, story estimation, sprint planning/packing"
+            "Implemented Views and Components based on UI/UX specs",
             "Tracked and fixed bugs",
             "Assisted in improvement efforts to increase the apps modularity and make better use of backbone, sass and handlebars",
-            "Presented weekly demonstrations on additions or improvments to the team",
+            "Assisted in improving app rating by root causing and fixing long standing user issues",
+            "Implemented Nest integration for Wemo Android",
+            "Improved app accessibility",
+            "Presented implementations to the team in end of sprint demos",
             "Participated in brainstorming sessions with UI/UX design team on user flows"
+            "Interviewed candidates for development and design positions"
         ]
     }, {
         "company": "Homes.com",
@@ -82,6 +87,7 @@
         "keywords": [
             "jQuery",
             "Underscore",
+            "React",
             "Backbone",
             "Handlebars",
             "Gulp",
@@ -89,8 +95,7 @@
             "Browserify",
             "Require",
             "Babel",
-            "Node",
-            "Express"
+            "Node/Npm"
         ]
     }, {
         "name": "CSS",
@@ -107,6 +112,7 @@
         "name": "Database",
         "level": "Intermediate",
         "keywords": [
+            "Firebase",
             "MySql",
             "MongoDB"
         ]
