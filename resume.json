@@ -29,7 +29,7 @@
         "startDate": "2015-06-01",
         "summary": "Developing and maintaining an Android hybrid app built on Backbonejs and cordova which controls Wemo smart home devices.",
         "highlights": [
-            "Worked in two week sprint cycles and participated in standups, story estimation, sprint planning/packing"
+            "Worked in two week sprint cycles and participated in standups, story estimation, sprint planning/packing",
             "Implemented Views and Components based on UI/UX specs",
             "Tracked and fixed bugs",
             "Assisted in improvement efforts to increase the apps modularity and make better use of backbone, sass and handlebars",
@@ -37,7 +37,7 @@
             "Implemented Nest integration for Wemo Android",
             "Improved app accessibility",
             "Presented implementations to the team in end of sprint demos",
-            "Participated in brainstorming sessions with UI/UX design team on user flows"
+            "Participated in brainstorming sessions with UI/UX design team on user flows",
             "Interviewed candidates for development and design positions"
         ]
     }, {
@@ -85,6 +85,7 @@
         "name": "Javascript",
         "level": "Advanced",
         "keywords": [
+            "ES6/ES2015",
             "jQuery",
             "Underscore",
             "React",
@@ -103,7 +104,6 @@
         "keywords": [
             "Sass",
             "LESS",
-            "PostCSS",
             "CSS3",
             "Flexbox",
             "Responsive Design"
